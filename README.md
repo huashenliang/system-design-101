@@ -1,3 +1,57 @@
+
+15) How Amazon S3 Achieves 99.999999999% Durability:
+https://lnkd.in/eutGiK35
+
+14) Gaming Leaderboard Architecture:
+https://lnkd.in/edfTDq5R
+
+13) How to Scale an App to 10 Million Users on AWS:
+https://lnkd.in/eU736g9Q
+
+12) How Uber Finds Nearby Drivers at 1 Million Requests per Second:
+https://lnkd.in/eeqH9Hjh
+
+11) How Cloudflare Supports 55 Million Requests per Second With 15 Postgres Clusters:
+https://lnkd.in/eEQP6Apw
+
+10) How Tinder Scaled to 1.6 Billion Swipes per Day:
+https://lnkd.in/en65fv-W
+
+9) Slack Architecture:
+https://lnkd.in/eATMDjrK
+
+8) How Disney+ Hotstar Scaled to 25 Million Concurrent Users:
+https://lnkd.in/gd63MjHV
+
+7) Microservices Lessons From Netflix:
+https://lnkd.in/eZSM3CRB
+
+6) Pastebin Architecture:
+https://lnkd.in/eZpfaVjc
+
+5) How Uber Computes ETA at Half a Million Requests per Second:
+https://lnkd.in/eVKV2ePC
+
+4) Zoom Architecture:
+https://lnkd.in/edidhxZw
+
+3) How Does Netflix Work?:
+https://lnkd.in/ehqyWMiW
+
+2) URL Shortener Architecture:
+https://lnkd.in/evFTZVQq
+
+1) SeatGeek Virtual Waiting Room Architecture:
+https://lnkd.in/eD3kPiPv
+
+
+What would you add to this list?
+
+PS - Join 52,001+ like-minded software engineers learning system design:
+https://lnkd.in/ed4URjuY
+
+
+
 <p>
   <a href="https://blog.bytebytego.com/?utm_source=site"><img src="images/banner.jpg" /> </a>
 </p>
